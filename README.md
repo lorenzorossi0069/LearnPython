@@ -1,2 +1,2 @@
 # LearnPython
-Python exercises
+My dummy Python exercises
